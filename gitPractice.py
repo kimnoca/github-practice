@@ -5,5 +5,5 @@ def add(a, b):
 def sub(a, b):
     return a-b
 
-def divied(a, b):
+def divied_in_dev(a, b):
     return a/b
